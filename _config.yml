@@ -1,0 +1,28 @@
+name: silkworm
+favicon: null
+layout_spectrum: 0.008282476803287864
+typography_spectrum: 0.3536857799626887
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.8603967353701591
+  lightness: 0.860365791246295
+  saturation: 0.44399953866377473
+  rhythmicContrast: 0.17752527515403926
+purpose: []
